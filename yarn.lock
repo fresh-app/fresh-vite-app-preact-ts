@@ -486,9 +486,9 @@ debug@^4.1.0, debug@^4.3.1:
     ms "2.1.2"
 
 electron-to-chromium@^1.4.284:
-  version "1.4.290"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.290.tgz#62ddde1ea2db0dc31b6fe5898911fc85b83977fb"
-  integrity sha512-3uIkNYprKqAixFqANvs7K3zacGz6iVIMcGG1M/7hMn6Gvzxe52Xg//wRUds7GPv2uouF7EZ4Sh51fLDw+aBkHw==
+  version "1.4.293"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.293.tgz#eaea755ad37a0f1759874a8597b33be62def2781"
+  integrity sha512-h7vBlhC83NsgC9UO3LOZx91xgstIrHk5iqMbZgnEArL5rHTM6HfsUZhnwb3oRnNetXM1741kB9SO7x9jLshz5A==
 
 esbuild@^0.16.14:
   version "0.16.17"
@@ -639,9 +639,9 @@ postcss@^8.4.21:
     source-map-js "^1.0.2"
 
 preact@^10.11.3:
-  version "10.12.0"
-  resolved "https://registry.yarnpkg.com/preact/-/preact-10.12.0.tgz#5126a361365b20dbced92e8eea459bf094069909"
-  integrity sha512-+w8ix+huD8CNZemheC53IPjMUFk921i02o30u0K6h53spMX41y/QhVDnG/nU2k42/69tvqWmVsgNLIiwRAcmxg==
+  version "10.12.1"
+  resolved "https://registry.yarnpkg.com/preact/-/preact-10.12.1.tgz#8f9cb5442f560e532729b7d23d42fd1161354a21"
+  integrity sha512-l8386ixSsBdbreOAkqtrwqHwdvR35ID8c3rKPa8lCWuO86dBi32QWHV4vfsZK1utLLFMvw+Z5Ad4XLkZzchscg==
 
 resolve@^1.20.0, resolve@^1.22.1:
   version "1.22.1"
