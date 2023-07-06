@@ -489,9 +489,9 @@ debug@^4.1.0, debug@^4.3.1:
     ms "2.1.2"
 
 electron-to-chromium@^1.4.431:
-  version "1.4.450"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.450.tgz#df232c961ee9bf4e8980f86e96a6e9f291720138"
-  integrity sha512-BLG5HxSELlrMx7dJ2s+8SFlsCtJp37Zpk2VAxyC6CZtbc+9AJeZHfYHbrlSgdXp6saQ8StMqOTEDaBKgA7u1sw==
+  version "1.4.451"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.451.tgz#12b63ee5c82cbbc7b4ddd91e90f5a0dfc10de26e"
+  integrity sha512-YYbXHIBxAHe3KWvGOJOuWa6f3tgow44rBW+QAuwVp2DvGqNZeE//K2MowNdWS7XE8li5cgQDrX1LdBr41LufkA==
 
 esbuild@^0.17.5:
   version "0.17.19"
@@ -656,9 +656,9 @@ resolve@^1.20.0:
     supports-preserve-symlinks-flag "^1.0.0"
 
 rollup@^3.21.0:
-  version "3.26.0"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-3.26.0.tgz#9f2e0316a4ca641911cefd8515c562a9124e6130"
-  integrity sha512-YzJH0eunH2hr3knvF3i6IkLO/jTjAEwU4HoMUbQl4//Tnl3ou0e7P5SjxdDr8HQJdeUJShlbEHXrrnEHy1l7Yg==
+  version "3.26.1"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-3.26.1.tgz#b375bf4b3cbb35bdca717e3cee2413894c469397"
+  integrity sha512-I5gJCSpSMr3U9wv4D5YA8g7w7cj3eaSDeo7t+JcaFQOmoOUBgu4K9iMp8k3EZnwbJrjQxUMSKxMyB8qEQzzaSg==
   optionalDependencies:
     fsevents "~2.3.2"
 
