@@ -398,9 +398,9 @@
   integrity sha512-KtC/fZw+oqtwOLUFM9UtiitB0JsVX0zLKNyRTA332sqREqSALIIQQxdUCS1P3xR/jT1e2e8/5rwH6gdcMLEmsQ==
 
 "@prefresh/vite@^2.4.1":
-  version "2.4.1"
-  resolved "https://registry.yarnpkg.com/@prefresh/vite/-/vite-2.4.1.tgz#c565ae2f8ec2c5ea03611969810dd02a779c2581"
-  integrity sha512-vthWmEqu8TZFeyrBNc9YE5SiC3DVSzPgsOCp/WQ7FqdHpOIJi7Z8XvCK06rBPOtG4914S52MjG9Ls22eVAiuqQ==
+  version "2.4.3"
+  resolved "https://registry.yarnpkg.com/@prefresh/vite/-/vite-2.4.3.tgz#2f877f14be776ca8d953e5b5492096950eb8c674"
+  integrity sha512-diQ8AW+Y2i1QEhO64t2hhV8WFP9X0/NAxuSd9eRlVyS3LOs3RgGOwjOmLoJqwCmIbdq5Szq983gO+xdW/l0G6A==
   dependencies:
     "@babel/core" "^7.22.1"
     "@prefresh/babel-plugin" "0.5.0"
@@ -439,9 +439,9 @@ browserslist@^4.21.9:
     update-browserslist-db "^1.0.13"
 
 caniuse-lite@^1.0.30001541:
-  version "1.0.30001558"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001558.tgz#d2c6e21fdbfe83817f70feab902421a19b7983ee"
-  integrity sha512-/Et7DwLqpjS47JPEcz6VnxU9PwcIdVi0ciLXRWBQdj1XFye68pSQYpV0QtPTfUKWuOaEig+/Vez2l74eDc1tPQ==
+  version "1.0.30001559"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001559.tgz#95a982440d3d314c471db68d02664fb7536c5a30"
+  integrity sha512-cPiMKZgqgkg5LY3/ntGeLFUpi6tzddBNS58A4tnTgQw1zON7u2sZMU7SzOeVH4tj20++9ggL+V6FDOFMTaFFYA==
 
 chalk@^2.4.2:
   version "2.4.2"
@@ -477,9 +477,9 @@ debug@^4.1.0, debug@^4.3.4:
     ms "2.1.2"
 
 electron-to-chromium@^1.4.535:
-  version "1.4.570"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.570.tgz#5fb79061ead248a411bc8532da34d1dbf6ae23c1"
-  integrity sha512-5GxH0PLSIfXKOUMMHMCT4M0olwj1WwAxsQHzVW5Vh3kbsvGw8b4k7LHQmTLC2aRhsgFzrF57XJomca4XLc/WHA==
+  version "1.4.572"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.572.tgz#ed9876658998138fe9e3aa47ecfa0bf914192a86"
+  integrity sha512-RlFobl4D3ieetbnR+2EpxdzFl9h0RAJkPK3pfiwMug2nhBin2ZCsGIAJWdpNniLz43sgXam/CgipOmvTA+rUiA==
 
 esbuild@^0.18.10:
   version "0.18.20"
