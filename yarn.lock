@@ -382,10 +382,10 @@
     kolorist "^1.8.0"
     resolve "^1.22.8"
 
-"@prefresh/babel-plugin@0.5.0":
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/@prefresh/babel-plugin/-/babel-plugin-0.5.0.tgz#61d8ef959007390077c9eddb7e9307c46e19277c"
-  integrity sha512-joAwpkUDwo7ZqJnufXRGzUb+udk20RBgfA8oLPBh5aJH2LeStmV1luBfeJTztPdyCscC2j2SmZ/tVxFRMIxAEw==
+"@prefresh/babel-plugin@0.5.1":
+  version "0.5.1"
+  resolved "https://registry.yarnpkg.com/@prefresh/babel-plugin/-/babel-plugin-0.5.1.tgz#3161bbbf12dd39a5fe08514349898fa6a20525b7"
+  integrity sha512-uG3jGEAysxWoyG3XkYfjYHgaySFrSsaEb4GagLzYaxlydbuREtaX+FTxuIidp241RaLl85XoHg9Ej6E4+V1pcg==
 
 "@prefresh/core@^1.5.1":
   version "1.5.2"
@@ -398,12 +398,12 @@
   integrity sha512-KtC/fZw+oqtwOLUFM9UtiitB0JsVX0zLKNyRTA332sqREqSALIIQQxdUCS1P3xR/jT1e2e8/5rwH6gdcMLEmsQ==
 
 "@prefresh/vite@^2.4.1":
-  version "2.4.3"
-  resolved "https://registry.yarnpkg.com/@prefresh/vite/-/vite-2.4.3.tgz#2f877f14be776ca8d953e5b5492096950eb8c674"
-  integrity sha512-diQ8AW+Y2i1QEhO64t2hhV8WFP9X0/NAxuSd9eRlVyS3LOs3RgGOwjOmLoJqwCmIbdq5Szq983gO+xdW/l0G6A==
+  version "2.4.4"
+  resolved "https://registry.yarnpkg.com/@prefresh/vite/-/vite-2.4.4.tgz#d94d69db76e84e9c62d5da6b5e0c909da9f7ab97"
+  integrity sha512-7jcz3j5pXufOWTjl31n0Lc3BcU8oGoacoaWx/Ur1QJ+fd4Xu0G7g/ER1xV02x7DCiVoFi7xtSgaophOXoJvpmA==
   dependencies:
     "@babel/core" "^7.22.1"
-    "@prefresh/babel-plugin" "0.5.0"
+    "@prefresh/babel-plugin" "0.5.1"
     "@prefresh/core" "^1.5.1"
     "@prefresh/utils" "^1.2.0"
     "@rollup/pluginutils" "^4.2.1"
@@ -477,9 +477,9 @@ debug@^4.1.0, debug@^4.3.4:
     ms "2.1.2"
 
 electron-to-chromium@^1.4.535:
-  version "1.4.580"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.580.tgz#2f8f70f70733a6be1fb6f31de1224e6dc4bb196d"
-  integrity sha512-T5q3pjQon853xxxHUq3ZP68ZpvJHuSMY2+BZaW3QzjS4HvNuvsMmZ/+lU+nCrftre1jFZ+OSlExynXWBihnXzw==
+  version "1.4.581"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.581.tgz#23b684c67bf56d4284e95598c05a5d266653b6d8"
+  integrity sha512-6uhqWBIapTJUxgPTCHH9sqdbxIMPt7oXl0VcAL1kOtlU6aECdcMncCrX5Z7sHQ/invtrC9jUQUef7+HhO8vVFw==
 
 esbuild@^0.18.10:
   version "0.18.20"
