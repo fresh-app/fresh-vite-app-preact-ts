@@ -7,12 +7,12 @@ settings:
 dependencies:
   preact:
     specifier: ^10.19.5
-    version: 10.19.5
+    version: 10.19.6
 
 devDependencies:
   '@preact/preset-vite':
     specifier: ^2.8.1
-    version: 2.8.1(@babel/core@7.23.9)(preact@10.19.5)(vite@5.1.4)
+    version: 2.8.1(@babel/core@7.23.9)(preact@10.19.6)(vite@5.1.4)
   typescript:
     specifier: ^5.2.2
     version: 5.3.3
@@ -504,7 +504,7 @@ packages:
       '@jridgewell/sourcemap-codec': 1.4.15
     dev: true
 
-  /@preact/preset-vite@2.8.1(@babel/core@7.23.9)(preact@10.19.5)(vite@5.1.4):
+  /@preact/preset-vite@2.8.1(@babel/core@7.23.9)(preact@10.19.6)(vite@5.1.4):
     resolution: {integrity: sha512-a9KV4opdj17X2gOFuGup0aE+sXYABX/tJi/QDptOrleX4FlnoZgDWvz45tHOdVfrZX+3uvVsIYPHxRsTerkDNA==}
     peerDependencies:
       '@babel/core': 7.x
@@ -513,7 +513,7 @@ packages:
       '@babel/core': 7.23.9
       '@babel/plugin-transform-react-jsx': 7.23.4(@babel/core@7.23.9)
       '@babel/plugin-transform-react-jsx-development': 7.22.5(@babel/core@7.23.9)
-      '@prefresh/vite': 2.4.5(preact@10.19.5)(vite@5.1.4)
+      '@prefresh/vite': 2.4.5(preact@10.19.6)(vite@5.1.4)
       '@rollup/pluginutils': 4.2.1
       babel-plugin-transform-hook-names: 1.0.2(@babel/core@7.23.9)
       debug: 4.3.4
@@ -531,19 +531,19 @@ packages:
     resolution: {integrity: sha512-uG3jGEAysxWoyG3XkYfjYHgaySFrSsaEb4GagLzYaxlydbuREtaX+FTxuIidp241RaLl85XoHg9Ej6E4+V1pcg==}
     dev: true
 
-  /@prefresh/core@1.5.2(preact@10.19.5):
+  /@prefresh/core@1.5.2(preact@10.19.6):
     resolution: {integrity: sha512-A/08vkaM1FogrCII5PZKCrygxSsc11obExBScm3JF1CryK2uDS3ZXeni7FeKCx1nYdUkj4UcJxzPzc1WliMzZA==}
     peerDependencies:
       preact: ^10.0.0
     dependencies:
-      preact: 10.19.5
+      preact: 10.19.6
     dev: true
 
   /@prefresh/utils@1.2.0:
     resolution: {integrity: sha512-KtC/fZw+oqtwOLUFM9UtiitB0JsVX0zLKNyRTA332sqREqSALIIQQxdUCS1P3xR/jT1e2e8/5rwH6gdcMLEmsQ==}
     dev: true
 
-  /@prefresh/vite@2.4.5(preact@10.19.5)(vite@5.1.4):
+  /@prefresh/vite@2.4.5(preact@10.19.6)(vite@5.1.4):
     resolution: {integrity: sha512-iForDVJ2M8gQYnm5pHumvTEJjGGc7YNYC0GVKnHFL+GvFfKHfH9Rpq67nUAzNbjuLEpqEOUuQVQajMazWu2ZNQ==}
     peerDependencies:
       preact: ^10.4.0
@@ -551,10 +551,10 @@ packages:
     dependencies:
       '@babel/core': 7.23.9
       '@prefresh/babel-plugin': 0.5.1
-      '@prefresh/core': 1.5.2(preact@10.19.5)
+      '@prefresh/core': 1.5.2(preact@10.19.6)
       '@prefresh/utils': 1.2.0
       '@rollup/pluginutils': 4.2.1
-      preact: 10.19.5
+      preact: 10.19.6
       vite: 5.1.4
     transitivePeerDependencies:
       - supports-color
@@ -700,14 +700,14 @@ packages:
     engines: {node: ^6 || ^7 || ^8 || ^9 || ^10 || ^11 || ^12 || >=13.7}
     hasBin: true
     dependencies:
-      caniuse-lite: 1.0.30001588
-      electron-to-chromium: 1.4.679
+      caniuse-lite: 1.0.30001589
+      electron-to-chromium: 1.4.680
       node-releases: 2.0.14
       update-browserslist-db: 1.0.13(browserslist@4.23.0)
     dev: true
 
-  /caniuse-lite@1.0.30001588:
-    resolution: {integrity: sha512-+hVY9jE44uKLkH0SrUTqxjxqNTOWHsbnQDIKjwkZ3lNTzUUVdBLBGXtj/q5Mp5u98r3droaZAewQuEDzjQdZlQ==}
+  /caniuse-lite@1.0.30001589:
+    resolution: {integrity: sha512-vNQWS6kI+q6sBlHbh71IIeC+sRwK2N3EDySc/updIGhIee2x5z00J4c1242/5/d6EpEMdOnk/m+6tuk4/tcsqg==}
     dev: true
 
   /chalk@2.4.2:
@@ -787,8 +787,8 @@ packages:
       domhandler: 5.0.3
     dev: true
 
-  /electron-to-chromium@1.4.679:
-    resolution: {integrity: sha512-NhQMsz5k0d6m9z3qAxnsOR/ebal4NAGsrNVRwcDo4Kc/zQ7KdsTKZUxZoygHcVRb0QDW3waEDIcE3isZ79RP6g==}
+  /electron-to-chromium@1.4.680:
+    resolution: {integrity: sha512-4nToZ5jlPO14W82NkF32wyjhYqQByVaDmLy4J2/tYcAbJfgO2TKJC780Az1V13gzq4l73CJ0yuyalpXvxXXD9A==}
     dev: true
 
   /entities@4.5.0:
@@ -968,8 +968,8 @@ packages:
       source-map-js: 1.0.2
     dev: true
 
-  /preact@10.19.5:
-    resolution: {integrity: sha512-OPELkDmSVbKjbFqF9tgvOowiiQ9TmsJljIzXRyNE8nGiis94pwv1siF78rQkAP1Q1738Ce6pellRg/Ns/CtHqQ==}
+  /preact@10.19.6:
+    resolution: {integrity: sha512-gympg+T2Z1fG1unB8NH29yHJwnEaCH37Z32diPDku316OTnRPeMbiRV9kTrfZpocXjdfnWuFUl/Mj4BHaf6gnw==}
 
   /resolve@1.22.8:
     resolution: {integrity: sha512-oKWePCxqpd6FlLvGV1VU0x7bkPmmCNolxzjMf4NczoDnQcIWrAF+cPtZn5i6n+RfD2d9i0tzpKnG6Yk168yIyw==}
