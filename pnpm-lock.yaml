@@ -469,8 +469,8 @@ packages:
   domutils@3.1.0:
     resolution: {integrity: sha512-H78uMmQtI2AhgDJjWeQmHwJJ2bLPD3GMmO7Zja/ZZh84wkm+4ut+IUnUdRa8uCGX88DiVx1j6FRe1XfxEgjEZA==}
 
-  electron-to-chromium@1.4.738:
-    resolution: {integrity: sha512-lwKft2CLFztD+vEIpesrOtCrko/TFnEJlHFdRhazU7Y/jx5qc4cqsocfVrBg4So4gGe9lvxnbLIoev47WMpg+A==}
+  electron-to-chromium@1.4.739:
+    resolution: {integrity: sha512-koRkawXOuN9w/ymhTNxGfB8ta4MRKVW0nzifU17G1UwTWlBg0vv7xnz4nxDnRFSBe9nXMGRgICcAzqXc0PmLeA==}
 
   entities@4.5.0:
     resolution: {integrity: sha512-V0hjH4dGPh9Ao5p0MoRY6BVqtwCjhz6vI5LT8AJ55H+4g9/4vbHx1I54fS0XuclLhDHArPQCiMjDxjaL8fPxhw==}
@@ -1011,7 +1011,7 @@ snapshots:
   browserslist@4.23.0:
     dependencies:
       caniuse-lite: 1.0.30001610
-      electron-to-chromium: 1.4.738
+      electron-to-chromium: 1.4.739
       node-releases: 2.0.14
       update-browserslist-db: 1.0.13(browserslist@4.23.0)
 
@@ -1063,7 +1063,7 @@ snapshots:
       domelementtype: 2.3.0
       domhandler: 5.0.3
 
-  electron-to-chromium@1.4.738: {}
+  electron-to-chromium@1.4.739: {}
 
   entities@4.5.0: {}
 
