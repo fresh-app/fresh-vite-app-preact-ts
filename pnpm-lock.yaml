@@ -587,8 +587,8 @@ packages:
     peerDependencies:
       browserslist: '>= 4.21.0'
 
-  vite-prerender-plugin@0.5.7:
-    resolution: {integrity: sha512-NSn/lewd0dZn8+mXvv9aXv6Wy7vx2wN5myawZc2YIFcVfrkcqEQVAjsOuWRWprovBHNplWIiPgEoUats8nt8+g==}
+  vite-prerender-plugin@0.5.8:
+    resolution: {integrity: sha512-XAED6mSH3kAW09/kQTN+jHTdDlM1cdKjVpB3ME1hGspExu5rRiqVRxSA+i1iembvuTnklb7urCykFYVJrtDlxg==}
 
   vite@6.2.6:
     resolution: {integrity: sha512-9xpjNl3kR4rVDZgPNdTL0/c6ao4km69a/2ihNQbcANz8RuCOK3hQBmLSJf3bRKVQjVMda+YvizNE8AwvogcPbw==}
@@ -870,7 +870,7 @@ snapshots:
       debug: 4.4.0
       kolorist: 1.8.0
       vite: 6.2.6
-      vite-prerender-plugin: 0.5.7
+      vite-prerender-plugin: 0.5.8
     transitivePeerDependencies:
       - preact
       - supports-color
@@ -1145,7 +1145,7 @@ snapshots:
       escalade: 3.2.0
       picocolors: 1.1.1
 
-  vite-prerender-plugin@0.5.7:
+  vite-prerender-plugin@0.5.8:
     dependencies:
       kolorist: 1.8.0
       magic-string: 0.30.17
