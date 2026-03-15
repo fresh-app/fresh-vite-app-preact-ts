@@ -567,10 +567,10 @@ packages:
     peerDependencies:
       browserslist: '>= 4.21.0'
 
-  vite-prerender-plugin@0.5.12:
-    resolution: {integrity: sha512-EiwhbMn+flg14EysbLTmZSzq8NGTxhytgK3bf4aGRF1evWLGwZiHiUJ1KZDvbxgKbMf2pG6fJWGEa3UZXOnR1g==}
+  vite-prerender-plugin@0.5.13:
+    resolution: {integrity: sha512-IKSpYkzDBsKAxa05naRbj7GvNVMSdww/Z/E89oO3xndz+gWnOBOKOAbEXv7qDhktY/j3vHgJmoV1pPzqU2tx9g==}
     peerDependencies:
-      vite: 5.x || 6.x || 7.x
+      vite: 5.x || 6.x || 7.x || 8.x
 
   vite@8.0.0:
     resolution: {integrity: sha512-fPGaRNj9Zytaf8LEiBhY7Z6ijnFKdzU/+mL8EFBaKr7Vw1/FWcTBAMW0wLPJAGMPX38ZPVCVgLceWiEqeoqL2Q==}
@@ -806,7 +806,7 @@ snapshots:
       debug: 4.4.3
       picocolors: 1.1.1
       vite: 8.0.0(@types/node@24.12.0)
-      vite-prerender-plugin: 0.5.12(vite@8.0.0(@types/node@24.12.0))
+      vite-prerender-plugin: 0.5.13(vite@8.0.0(@types/node@24.12.0))
     transitivePeerDependencies:
       - preact
       - rollup
@@ -1121,7 +1121,7 @@ snapshots:
       escalade: 3.2.0
       picocolors: 1.1.1
 
-  vite-prerender-plugin@0.5.12(vite@8.0.0(@types/node@24.12.0)):
+  vite-prerender-plugin@0.5.13(vite@8.0.0(@types/node@24.12.0)):
     dependencies:
       kolorist: 1.8.0
       magic-string: 0.30.21
