@@ -541,9 +541,9 @@ packages:
     resolution: {integrity: sha512-i5uvt8C3ikiWeNZSVZNWcfZPItFQOsYTUAOkcUPGd8DqDy1uOUikjt5dG+uRlwyvR108Fb9DOd4GvXfT0N2/uQ==}
     engines: {node: '>= 12'}
 
-  stack-trace@1.0.0-pre2:
-    resolution: {integrity: sha512-2ztBJRek8IVofG9DBJqdy2N5kulaacX30Nz7xmkYF6ale9WBVmIy6mFBchvGX7Vx/MyjBhx+Rcxqrj+dbOnQ6A==}
-    engines: {node: '>=16'}
+  stack-trace@1.0.0:
+    resolution: {integrity: sha512-H6D7134xi6qONvh7ZHKgviXf+rd3vhGBSvebPZCaUkd8zvQ+7PtDw6CljPTe4cXWNf2IKZGNqw6VJXSb9IgBpA==}
+    engines: {node: '>=20.0.0'}
 
   tinyglobby@0.2.16:
     resolution: {integrity: sha512-pn99VhoACYR8nFHhxqix+uvsbXineAasWm5ojXoN8xEwK5Kd3/TrhNn1wByuD52UxWRLy8pu+kRMniEi6Eq9Zg==}
@@ -1105,7 +1105,7 @@ snapshots:
 
   source-map@0.7.6: {}
 
-  stack-trace@1.0.0-pre2: {}
+  stack-trace@1.0.0: {}
 
   tinyglobby@0.2.16:
     dependencies:
@@ -1132,7 +1132,7 @@ snapshots:
       node-html-parser: 6.1.13
       simple-code-frame: 1.3.0
       source-map: 0.7.6
-      stack-trace: 1.0.0-pre2
+      stack-trace: 1.0.0
       vite: 8.0.10(@types/node@24.12.2)
 
   vite@8.0.10(@types/node@24.12.2):
